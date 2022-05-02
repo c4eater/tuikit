@@ -1,4 +1,8 @@
 # Change Logs
+## v0.4.6: 2022-05-02
+
+Feature:
+- allow to disable the leading newline in the output
 
 ## v0.4.5: 2021-02-15
 
